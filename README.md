@@ -31,3 +31,12 @@ Instructions:
 5. Уберите галочку Binarize
 6. Запаковываете.
 7. Размещаете pbo в любой свой мод с указанием ссылкой на источник https://github.com/moddayz
+
+
+
+Model purchased here
+https://www.turbosquid.com/3d-models/3d-max-h-uh-1-uh-1h/573263
+Editorial Uses Only License
+
+Games uses
+Allowed games uses: Console, PC, web, mobile games; Virtual and augmented reality; Game mods; Closed MMOs and closed Virtual Worlds.
