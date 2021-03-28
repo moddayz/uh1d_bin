@@ -17,7 +17,8 @@ Instructions:
 4. In the Addons source directory line, specify uh1d_bin-main \ uh1d_bin-main \ sibnic - the sibnic folder
 5. Uncheck Binarize
 6. Pack it.
-7. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
+7. You should get sibnic.pbo
+8. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
 
 
 
@@ -30,7 +31,8 @@ Instructions:
 4. В строке Addons source directory указываете uh1d_bin-main \ uh1d_bin-main \ sibnic - папка sibnic 
 5. Уберите галочку Binarize
 6. Запаковываете.
-7. Размещаете pbo в любой свой мод с указанием ссылкой на источник https://github.com/moddayz
+7. Должен получиться sibnic.pbo
+8. Размещаете pbo в любой свой мод с указанием ссылкой на источник https://github.com/moddayz
 
 
 
