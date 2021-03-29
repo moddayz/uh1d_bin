@@ -15,10 +15,11 @@ Instructions:
 2. Run Dayz_tools https://store.steampowered.com/app/830640/DayZ_Tools/
 3. Launch and select AddonBuilder in it
 4. In the Addons source directory line, specify uh1d_bin-main \ sibnic - the sibnic folder
-5. Uncheck Binarize
-6. Pack it.
-7. You should get sibnic.pbo
-8. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
+5. For those who decided to ignore in 4 point, I repeat, DO NOT PACK uh1d_bin-main the folder !!! find sibnic a folder in it and pack it in pbo ...!!!
+6. Uncheck Binarize
+7. Pack it.
+8. You should get sibnic.pbo
+9. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
 
 
 
