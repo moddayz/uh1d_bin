@@ -1,2 +1,2 @@
-﻿prefix=Sibnic\UH1D
-revision=191;
+prefix=Sibnic\UH1D
+revision=191; 
