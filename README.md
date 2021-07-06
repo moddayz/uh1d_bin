@@ -24,8 +24,7 @@ This is a helicopter
 6. Uncheck Binarize
 7. Pack it.
 8. You should get HelicopterSIB_UH1D.pbo
-9. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
-
+9. Place the required text in the description of the mod
 
 
 
@@ -38,7 +37,7 @@ This is a helicopter
 5. Уберите галочку Binarize
 6. Запаковываете.
 7. Должен получиться HelicopterSIB_UH1D.pbo
-8. Размещаете pbo в любой свой мод с указанием ссылкой на источник https://github.com/moddayz
+8. Размещаете обязательный текст в описании мода
 
 
 
